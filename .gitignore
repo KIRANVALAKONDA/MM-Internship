@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Keep only essential IDEA configs (optional)
+!.idea/codeStyles/
+!.idea/misc.xml
+!.idea/gradle.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# APK / binaries
+*.apk
+*.aar
+*.jar
+*.dex
+*.class
+
+# Kotlin
+.kotlin/
+
+# Native build
+.externalNativeBuild/
+
+# Keystore (CRITICAL)
+*.jks
+*.keystore
+
+# Temp
+*.tmp
+*.lock
+
+# App-specific
+app/build/
+captures/

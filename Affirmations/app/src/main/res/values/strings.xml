@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">My potential is limitless.</string>
+    <string name="affirmation2">I am a magnet for positive energy.</string>
+    <string name="affirmation3">Every day, I am becoming a better version of myself.</string>
+    <string name="affirmation4">I am resilient, strong, and brave.</string>
+    <string name="affirmation5">I trust the process and embrace the journey.</string>
+    <string name="affirmation6">My mind is full of brilliant ideas.</string>
+    <string name="affirmation7">I choose to be happy and grateful today.</string>
+    <string name="affirmation8">I am worthy of all the good things that come my way.</string>
+    <string name="affirmation9">I radiate confidence, self-respect, and inner harmony.</string>
+    <string name="affirmation10">I have the power to create the life I desire.</string>
+</resources>
