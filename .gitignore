@@ -18,6 +18,7 @@ local.properties
 # OS files
 .DS_Store
 Thumbs.db
+*.lnk
 
 # Logs
 *.log
